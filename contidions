@@ -1,0 +1,4 @@
+height = 140
+
+job = "security" if height > 150 else "labor"
+print(job)
